@@ -17,7 +17,7 @@ I am currently in my final year of **Software Engineering** at the **University 
 I've been programming since I was 15 years old, and I’m a lifelong learner who loves to explore new technologies and challenges.
 
 ### 🔍 Currently
-- Learning and working on projects about **Computer Vision**, **Deep Neural Networks**, **Full-Stack Development**, and **Mobile Applications**.
+- Learning and working on projects about **Computer Vision**, **Deep Neural Networks**, **Full-Stack Development**, **Mobile Applications** and **Videogames**.
 - Balancing research work and hobby projects.
 - 📫 You can contact me via email (**[macorisd@gmail.com](mailto:macorisd@gmail.com)**) or [Linkedin](https://www.linkedin.com/in/macorisd/).
 
