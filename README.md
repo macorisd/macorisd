@@ -38,7 +38,7 @@ I've been programming since I was 15 years old, and I’m a lifelong learner who
 ## 🌟 Featured Projects
 ### Solo Projects
 - **[U-CV-TTT](https://github.com/macorisd/U-CV-TTT)**: A Computer Vision-powered program that analyzes a TicTacToe game through the camera and plays against the user.
-- **[Instagram Fake Account Analysis](https://github.com/macorisd/U-CV-TTT)**: A research study in R focused on classifying fake Instagram accounts through dataset analysis.
+- **[Instagram Fake Account Analysis](https://github.com/macorisd/instagram-fake-account-analysis)**: A research study in R focused on classifying fake Instagram accounts through dataset analysis.
 
 
 ### Team Projects
