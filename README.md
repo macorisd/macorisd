@@ -17,7 +17,7 @@ I am currently in my final year of **Software Engineering** at the **University 
 I've been programming since I was 15 years old, and I’m a lifelong learner who loves to explore new technologies and challenges.
 
 ### 🔍 Currently
-- Learning and working on projects about **Computer Vision**, **Deep Neural Networks**, **Full-Stack Development**, **Mobile Applications** and **Videogames**.
+- Learning and working on projects about **Computer Vision**, **Deep Learning Models** (LVLMs & LLMs), **Robotics**, **Full-Stack Development**, **Mobile Applications** and **Videogames**.
 - Balancing research work and hobby projects.
 - 📫 You can contact me via email (**[macorisd@gmail.com](mailto:macorisd@gmail.com)**) or [Linkedin](https://www.linkedin.com/in/macorisd/).
 
@@ -28,16 +28,17 @@ I've been programming since I was 15 years old, and I’m a lifelong learner who
 [![Programming Languages](https://skillicons.dev/icons?i=java,python,c,cpp,cs,js,html,css,haskell,r)](https://skillicons.dev)
 
 ### Frameworks & Technologies
-[![Frameworks & Technologies](https://skillicons.dev/icons?i=fastapi,spring,opencv,nodejs,react,vite,bootstrap,dotnet,androidstudio,docker,unity,vercel,arduino)](https://skillicons.dev)
+[![Frameworks & Technologies](https://skillicons.dev/icons?i=fastapi,spring,opencv,ros,nodejs,react,vite,bootstrap,dotnet,androidstudio,docker,unity,vercel,arduino)](https://skillicons.dev)
 
 ### Databases
 [![Databases](https://skillicons.dev/icons?i=mysql,mongodb,sqlite)](https://skillicons.dev)
 
 ---
 
-## 🌟 Featured Projects
+## 💡 Featured Projects
 ### Solo Projects
-- **[U-CV-TTT](https://github.com/macorisd/U-CV-TTT)**: A Computer Vision-powered program that analyzes a TicTacToe game through the camera and plays against the user.
+- **[Open Object Classification](https://github.com/macorisd/open-object-classification)**: A Computer Vision project in Python focused on open-image classification without the limitations of predefined datasets like COCO. It leverages the Segment Anything Model 2 (SAM2) for segmentation, a LVLM (LLaVA) for image description, and a LLM (DeepSeek) for instance classification.
+- **[Ultimate Computer Vision TicTacToe](https://github.com/macorisd/U-CV-TTT)**: A Computer Vision-powered program that analyzes a TicTacToe game through the camera and plays against the user.
 - **[Instagram Fake Account Analysis](https://github.com/macorisd/instagram-fake-account-analysis)**: A research study in R focused on classifying fake Instagram accounts through dataset analysis.
 
 
