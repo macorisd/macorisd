@@ -37,7 +37,7 @@ I've been programming since I was 15 years old, and I’m a lifelong learner who
 
 ## 💡 Featured Projects
 ### Solo Projects
-- **[Open Object Classification](https://github.com/macorisd/open-object-classification-TLS)**: A Computer Vision project in Python focused on open-image classification without the limitations of predefined datasets like COCO. The main pipeline leverages a LVLM (LLaVA) for image description, a LLM (DeepSeek) for keyword extraction, and the Segment Anything Model 2 (SAM2) for instance segmentation.
+- **[TALOS](https://github.com/macorisd/TALOS)**: A Computer Vision project in Python focused on open-image classification without the limitations of predefined datasets like COCO.
 - **[Ultimate Computer Vision TicTacToe](https://github.com/macorisd/U-CV-TTT)**: A Computer Vision-powered program that analyzes a TicTacToe game through the camera and plays against the user.
 - **[Instagram Fake Account Analysis](https://github.com/macorisd/instagram-fake-account-analysis)**: A research study in R focused on classifying fake Instagram accounts through dataset analysis.
 
