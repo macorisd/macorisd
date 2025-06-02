@@ -17,7 +17,7 @@ I am currently in my final year of **Software Engineering** at the **University 
 I've been programming since I was 15 years old, and I’m a lifelong learner who loves to explore new technologies and challenges.
 
 ### 🔍 Currently
-- Learning and working on projects about **Computer Vision**, **Deep Learning Models** (LVLMs & LLMs), **Robotics**, **Full-Stack Development**, **Mobile Applications** and **Videogames**.
+- Learning and working on projects about **Computer Vision**, **Deep Learning Models** (LVLMs & LLMs), **Robotics**, **Full-Stack Development** and **Mobile Applications**.
 - Balancing research work and hobby projects.
 - 📫 You can contact me via email (**[macorisd@gmail.com](mailto:macorisd@gmail.com)**) or [Linkedin](https://www.linkedin.com/in/macorisd/).
 
@@ -37,9 +37,10 @@ I've been programming since I was 15 years old, and I’m a lifelong learner who
 
 ## 💡 Featured Projects
 ### Solo Projects
-- **[TALOS](https://github.com/macorisd/TALOS)**: A Computer Vision project in Python focused on open-image classification without the limitations of predefined datasets like COCO.
-- **[Ultimate Computer Vision TicTacToe](https://github.com/macorisd/U-CV-TTT)**: A Computer Vision-powered program that analyzes a TicTacToe game through the camera and plays against the user.
+- **[TALOS](https://github.com/macorisd/TALOS)**: A Modular and Automatic System for Open-Vocabulary Semantic Instance Segmentation. It is an automatic method, taking only a single image as input, and it's modular, allowing the inclusion of various state-of-the-art models at each of its stages. It includes a ROS2 node designed for communication with robotic platforms.
+- **[Ultimate Computer Vision TicTacToe](https://github.com/macorisd/U-CV-TTT)**: A Computer Vision-powered program that analyzes a physical TicTacToe game through the camera and plays against the user.
 - **[Instagram Fake Account Analysis](https://github.com/macorisd/instagram-fake-account-analysis)**: A research study in R focused on classifying fake Instagram accounts through dataset analysis.
+- **[Personal Portfolio](https://github.com/macorisd/portfolio)**: My personal Software Engineer portfolio, built with Docusaurus + React.
 
 
 ### Team Projects
