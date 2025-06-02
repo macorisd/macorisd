@@ -46,7 +46,7 @@ I've been programming since I was 15 years old, and I’m a lifelong learner who
 ### Team Projects
 - **[Planit](https://github.com/macorisd/planit)**: A mobile task organizer app using Android Studio and SQLite, with multi-language support.
 - **[Threes Space State Search](https://github.com/macorisd/threes-space-state-search)**: A program that uses state-space search theory to achieve the highest score in the game Threes, visualized with Pygame.
-- **[Orcast](https://www.yellowbeavers.com/)**: A Unity-developed pixel art game focused on saving the future of a magical valley. 
+- **[Orcast](https://yellow-beavers.itch.io/orcast)**: A Unity-developed pixel art game focused on saving the future of a magical valley. 
 
 ---
 
