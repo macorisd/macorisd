@@ -10,6 +10,8 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/macorisd/" target="_blank">LinkedIn</a>
+  &nbsp;&bull;&nbsp;
+  <a href="https://macorisd.github.io/portfolio/" target="_blank">Portfolio</a>
 </p>
 
 ## 🌟 About Me
